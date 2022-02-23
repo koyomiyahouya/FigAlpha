@@ -1,2 +1,8 @@
-title: Koyomiya5438 Homepage
+title: FigAlpha
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-spaceship
 remote_theme: jeffreytse/jekyll-theme-yat
