@@ -1,2 +1,12 @@
 title: FigAlpha
 remote_theme: jeffreytse/jekyll-theme-yat
+author: Koyomiya5438
+copyright: "(cleft) 2022-{currentYear} {author}"
+yat:
+  date_format: "%Y年%m月%d日 %H:%M"
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-spaceship
