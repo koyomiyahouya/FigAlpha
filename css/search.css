@@ -1,0 +1,50 @@
+h1 {
+    font-size: 150%;
+    border-bottom: 2px solid orange;
+    margin-bottom: 1em;
+}
+
+#tagList ul {
+    padding: 0;
+}
+
+#tagList ul li {
+    display: inline-block;
+    margin: 5px 10px;
+}
+
+#tagList, #matchedList {
+    max-width: 900px;
+    margin: 50px auto;
+}
+
+#tagList ul li a span,
+#matchedList dl dd a span {
+     font-size: 80%;
+    padding-left: 2px;
+}
+
+#matchedList dl {
+    margin-left: 1.5em;
+}
+
+#matchedList dt {
+    display: list-item;
+    margin-bottom: 0.3em;
+}
+
+#matchedList dt:not(:first-child) {
+    margin-top: 1em;
+}
+
+#matchedList dd {
+    display: inline-block;
+    margin-left: 0;
+    margin-right: 1em;
+    color: #444;
+    font-size: 90%;
+}
+
+#matchedList p {
+    text-align: center;
+}
