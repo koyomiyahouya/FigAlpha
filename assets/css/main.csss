@@ -11,7 +11,6 @@ $theme-colors: (
 
 // Default brand colors
 $brand-colors: (
-  "orangered": #ff5100,
   "greatgold": #f2cb05,
   "greenblue": #389092,
   "skeedblue": #45bad1,
