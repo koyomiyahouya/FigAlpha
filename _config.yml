@@ -2,6 +2,7 @@ title: THETA
 remote_theme: jeffreytse/jekyll-theme-yat
 author: Koyomiya5438
 copyright: "(cleft) 2022-{currentYear} {author}"
+baseurl: "/docs"
 yat:
   date_format: "%Y/%m/%d"
 lang: "ja"
