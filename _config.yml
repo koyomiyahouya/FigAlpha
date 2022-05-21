@@ -6,7 +6,12 @@ yat:
   date_format: "%Y/%m/%d"
 lang: "ja"
 brand_color: "#45bad1"
-
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: /:year-:month/:title.html
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
