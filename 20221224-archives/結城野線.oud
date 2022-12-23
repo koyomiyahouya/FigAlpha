@@ -1,0 +1,146 @@
+FileType=OuDia.1.02
+Rosen.
+Rosenmei=結城野線
+Eki.
+Ekimei=晰津
+Ekijikokukeisiki=Jikokukeisiki_Hatsu
+Ekikibo=Ekikibo_Syuyou
+.
+Eki.
+Ekimei=千颯上
+Ekijikokukeisiki=Jikokukeisiki_Hatsu
+Ekikibo=Ekikibo_Ippan
+.
+Eki.
+Ekimei=千颯吉田
+Ekijikokukeisiki=Jikokukeisiki_Hatsu
+Ekikibo=Ekikibo_Ippan
+.
+Eki.
+Ekimei=朝飛鳥
+Ekijikokukeisiki=Jikokukeisiki_Hatsu
+Ekikibo=Ekikibo_Ippan
+.
+Eki.
+Ekimei=佩沢
+Ekijikokukeisiki=Jikokukeisiki_Hatsu
+Ekikibo=Ekikibo_Ippan
+.
+Eki.
+Ekimei=仲子沢
+Ekijikokukeisiki=Jikokukeisiki_Hatsu
+Ekikibo=Ekikibo_Syuyou
+.
+Eki.
+Ekimei=圏央尾井
+Ekijikokukeisiki=Jikokukeisiki_Hatsu
+Ekikibo=Ekikibo_Ippan
+.
+Eki.
+Ekimei=剋奈栄
+Ekijikokukeisiki=Jikokukeisiki_Hatsu
+Ekikibo=Ekikibo_Ippan
+.
+Eki.
+Ekimei=沙谷
+Ekijikokukeisiki=Jikokukeisiki_Hatsu
+Ekikibo=Ekikibo_Ippan
+.
+Eki.
+Ekimei=沙谷平
+Ekijikokukeisiki=Jikokukeisiki_Hatsu
+Ekikibo=Ekikibo_Ippan
+.
+Eki.
+Ekimei=番磨
+Ekijikokukeisiki=Jikokukeisiki_Hatsu
+Ekikibo=Ekikibo_Ippan
+.
+Eki.
+Ekimei=奉央台
+Ekijikokukeisiki=Jikokukeisiki_Hatsu
+Ekikibo=Ekikibo_Syuyou
+.
+Ressyasyubetsu.
+Syubetsumei=各駅停車
+Ryakusyou=各停
+JikokuhyouMojiColor=00000000
+JikokuhyouFontIndex=0
+DiagramSenColor=00000000
+DiagramSenStyle=SenStyle_Jissen
+.
+Ressyasyubetsu.
+Syubetsumei=準急行
+Ryakusyou=準急
+JikokuhyouMojiColor=00285F11
+JikokuhyouFontIndex=0
+DiagramSenColor=00285F11
+DiagramSenStyle=SenStyle_Jissen
+.
+Ressyasyubetsu.
+Syubetsumei=急行
+Ryakusyou=急行
+JikokuhyouMojiColor=001184E8
+JikokuhyouFontIndex=0
+DiagramSenColor=001184E8
+DiagramSenStyle=SenStyle_Jissen
+.
+Ressyasyubetsu.
+Syubetsumei=特別急行
+Ryakusyou=特急
+JikokuhyouMojiColor=001313EC
+JikokuhyouFontIndex=0
+DiagramSenColor=001313EC
+DiagramSenStyle=SenStyle_Jissen
+.
+Dia.
+DiaName=新規ダイヤ
+Kudari.
+Ressya.
+Houkou=Kudari
+Syubetsu=0
+Ressyabangou=
+Ressyamei=
+Gousuu=
+EkiJikoku=1;451/452,1;454/455,1;457/458,1;500/501,1;503/504,1;506/507,1;509/510,1;512/514,1;516/517,1;517/518,1;520/521,1;523/524
+.
+Ressya.
+Houkou=Kudari
+Syubetsu=2
+Ressyabangou=
+Ressyamei=
+Gousuu=
+EkiJikoku=1;458/459,1;501/502,2;,2;,2;,1;509/510,2;,2;,1;514/515,2;,2;,1;519/520
+.
+.
+Nobori.
+.
+.
+KitenJikoku=450
+DiagramDgrYZahyouKyoriDefault=60
+Comment=
+.
+DispProp.
+JikokuhyouFont=PointTextHeight=9;Facename=MS ゴシック
+JikokuhyouFont=PointTextHeight=9;Facename=MS ゴシック
+JikokuhyouFont=PointTextHeight=9;Facename=MS ゴシック
+JikokuhyouFont=PointTextHeight=9;Facename=MS ゴシック
+JikokuhyouFont=PointTextHeight=9;Facename=MS ゴシック
+JikokuhyouFont=PointTextHeight=9;Facename=MS ゴシック
+JikokuhyouFont=PointTextHeight=9;Facename=MS ゴシック
+JikokuhyouFont=PointTextHeight=9;Facename=MS ゴシック
+JikokuhyouVFont=PointTextHeight=9;Facename=MS ゴシック
+DiaEkimeiFont=PointTextHeight=9;Facename=MS ゴシック
+DiaJikokuFont=PointTextHeight=9;Facename=MS ゴシック
+CommentFont=PointTextHeight=9;Facename=MS ゴシック
+DiaRessyaFont=PointTextHeight=9;Facename=MS ゴシック
+DiaRessyaFont=PointTextHeight=9;Facename=MS ゴシック
+DiaMojiColor=00000000
+DiaHaikeiColor=00000000
+DiaRessyaColor=00BFBFBF
+DiaJikuColor=00000000
+DiaMojiColor=00FFFFFF
+EkimeiLength=6
+JikokuhyouRessyaWidth=5
+.
+FileTypeAppComment=CloudDia v0.4.3
